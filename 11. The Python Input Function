@@ -1,0 +1,11 @@
+# Using the Input() Function, can advise the user to provide data into the Terminal.
+# Note, we can add a space for tidiness, or force the user to provide their answer on a new line.
+
+input("What is your Name? ")
+input("What is your Name?\n")
+
+# We can also nest functions i.e. place a function, inside of another. Below, we are asking the Adviser firstly for
+# input. Thereafter, the program will store the input, and print it with the statement 'Hello **Input**'
+
+print("Hello " + input("What is your Name? "))
+print("Hello\n" + input("What is your Name? "))
