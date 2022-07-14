@@ -1,0 +1,9 @@
+# Variables allow us to store Data.
+
+name = "Rhys"
+print(name)
+
+# We can change a Variable.
+
+name = "Kate"
+print(name)
