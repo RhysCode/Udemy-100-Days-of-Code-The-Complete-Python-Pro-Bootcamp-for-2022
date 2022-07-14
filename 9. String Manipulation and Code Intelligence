@@ -1,0 +1,12 @@
+# Using the Command, \n will create a new line.
+
+print("Hello World!\nHello World!\nHello World!")
+
+# We can concatenate strings, via the use of operators, such as +.
+
+print("Hello" + " " + "World!")
+print("Hello " + "World!")
+
+# If we think of strings as a stream of connected characters, then String Concatenation is simply taking those
+# separate strings of characters, and merging them into one.
+
