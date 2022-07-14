@@ -1,0 +1,4 @@
+# The Double Quotes indicate the beginning, and an end of a 'String'.
+# Take note of the Colours
+
+print("Hello World!")
