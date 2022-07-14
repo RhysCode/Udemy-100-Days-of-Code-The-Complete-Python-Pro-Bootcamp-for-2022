@@ -1,0 +1,5 @@
+# Be wary of using single quotation marks, and double quotation marks.
+
+print("Day 1 - Python Print Function")
+print("The Function is Declared Like This: ")
+print("print('What to Print')")
