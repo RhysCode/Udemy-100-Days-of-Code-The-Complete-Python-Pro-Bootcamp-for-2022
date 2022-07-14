@@ -3,6 +3,9 @@
 # For this Exercise, we want to know the Length (Characters), of an Individual's Name.
 # To
 
-name = input("What is your Name? ")
+print(len(input("What is your Name? ")))
 
+# We can alternatively use a Variable!
+
+name = input("What is your Name? ")
 print(len(name))
